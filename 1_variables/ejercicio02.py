@@ -1,4 +1,4 @@
-#variables
+#********variables********
 name = "jose"
 last_name = "apaza saavedra"
 age = 28

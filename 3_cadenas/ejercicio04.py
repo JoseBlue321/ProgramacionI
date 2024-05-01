@@ -1,4 +1,4 @@
-#********string (CADENAS)**********
+#*********string (CADENAS)**********
 
 full_name = "JOSE APAZA SAAVEDRA"
 

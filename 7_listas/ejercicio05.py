@@ -1,4 +1,4 @@
-#********LIT*************
+#********LIST*************
 
 frutas = ["uva","frutilla","platano"]
 asistencia = ["jose","josue","ruben","antonio","wilmer","jose"]
