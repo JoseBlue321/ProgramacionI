@@ -12,7 +12,6 @@ class Ventana(wx.Frame):
     def presion_boton(self,evento):
         wx.MessageBox("Hola mundo")
 
-
 aplicacion = wx.App()
 frm = Ventana(None, title='Prueba')
 frm.Show()
