@@ -8,7 +8,6 @@ import tkinter
 class Aplicacion:
     def __init__(self):
         self.ventana = tkinter.Tk()
-        self.ventana.title("")
         self.ventana.title("jose apaza saavedra")
         self.ventana.mainloop()
 
