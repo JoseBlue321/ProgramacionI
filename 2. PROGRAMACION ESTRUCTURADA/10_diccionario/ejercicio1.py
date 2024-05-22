@@ -1,7 +1,8 @@
 '''
-un diccionario es una estructura de datos
-o una coleccion de datos 
-que se puede modificar
+un diccionario es una estructura de datos o una coleccion de datos que se puede modificar.
+- Los elementos son indexados por clave.
+- No permiten claves duplicadas
+- Describe objetos
 '''
 
 persona = {
@@ -48,3 +49,5 @@ print( persona )
 
 #limpiar los datos del diccionario
 del persona
+
+
